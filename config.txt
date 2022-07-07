@@ -1,0 +1,8 @@
+[config]
+guiscale = 1
+backgroundcolor = #6179C0
+foregroundcolor = #FAFFD5
+fontcolor = #000000
+font = OpenSans
+fontsize = 12
+
